@@ -1,0 +1,3 @@
+onEvent("screen1", "click", function( ) {
+  setProperty("screen1", "background-color", rgb(255,0,0,0.5));
+});
